@@ -11,7 +11,7 @@ I study the security of Embodied AI.
 
 <!--Previously, I obtained my PhD from Princeton University advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/), and my bachelor's from Yao Class at Tsinghua University.
 -->
-Previously, I obtained my PhD and BSc from Zhejiang University co-advised by [Wenyuan Xu](https://person.zju.edu.cn/wyxu), [Xiaoyu Ji](https://person.zju.edu.cn/xji), [Chen Yan](https://cyansec.com), [Yushi Cheng](https://scholar.google.com/citations?user=E59dgV4AAAAJ&hl=zh-CN).
+Previously, I obtained my Ph.D. and B.S. from Zhejiang University co-advised by [Wenyuan Xu](https://person.zju.edu.cn/wyxu), [Xiaoyu Ji](https://person.zju.edu.cn/xji), [Chen Yan](https://cyansec.com), [Yushi Cheng](https://scholar.google.com/citations?user=E59dgV4AAAAJ&hl=zh-CN).
 
 
 
@@ -34,7 +34,7 @@ In my life, I read, travel, rap, and play basketball.
 <!---- Apr 2023: I attended LangChain's Agent [webinar](https://www.youtube.com/watch?v=1gRlCjy18m4). Summary [here](https://twitter.com/jh_damm/status/1646233627661828109).   --> 
 
 # Selected work
-- **Attack and Defense for LiDAR-based Perceptionin Autonomous Driving** <br>
+- **Attack and Defense for LiDAR-based Perception in Autonomous Driving** <br>
   Zizhi Jin <br>
   PhD Thesis <br>
     [paper](https://jinzizhisir.github.io/papers/phd_paper.pdf) |
